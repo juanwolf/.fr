@@ -3,6 +3,7 @@ languageCode = "en-gb"
 
 title = "Jean-Loup Adde to serve you"
 theme = "split"
+enableEmoji = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
@@ -10,38 +11,27 @@ googleAnalytics = ""
 
 # Copyright
 copyright = "&copy;2018 Jean-Loup Adde"
-enableEmojify = true
 
 [params]
-
-  # Metadata for search engines and social sharing
   author = "Jean-Loup Adde"
   description = "Site Reliability Engineer, blogger, gamer. I enjoy self healing infrastructure at scale! I love OSS and learning new stuff! "
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
-  # Favicon
   favicon = "favicon.ico"
 
-  # Section - Visual
   [params.visual]
 
-    # Image
     [params.visual.image]
       enable = true
       file = "images/selfie.jpg"
       position = "center center"
 
-    # Video
     [params.visual.video]
       enable = false
       mute = true
       file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
 
-  # Links
-  #
-  # Links List #1
   [[params.links]]
     [params.links.list1]
       heading = "Connect"
@@ -58,7 +48,6 @@ enableEmojify = true
         text = "Slack"
         url = "https://juanwolf.slack.com"
 
-  # Links List #2
   [[params.links]]
     [params.links.list2]
       heading = "Social"
@@ -75,7 +64,6 @@ enableEmojify = true
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/jean-loup-adde-81314b61/?locale=en_US"
 
-  # Links List #3
   [[params.links]]
     [params.links.list3]
       heading = "Activities"
