@@ -1,22 +1,22 @@
 baseURL = "https://juanwolf.netlify.com/"
 languageCode = "en-gb"
 
-title = "Jean-Loup Adde to serve you"
+title = "Jean-Loup at your service"
 theme = "split"
 enableEmoji = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-116906295-1"
 
 # Copyright
 copyright = "&copy;2018 Jean-Loup Adde"
 
 [params]
   author = "Jean-Loup Adde"
-  description = "Site Reliability Engineer, blogger, gamer. I enjoy self healing infrastructure at scale! I love OSS and learning new stuff! "
-  shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  description = "Site Reliability Engineer, blogger, gamer."
+  shareImage = "images/self-portrait-en.jpg"
+  twitterHandle = "juan__wolf"
 
   favicon = "favicon.ico"
 
