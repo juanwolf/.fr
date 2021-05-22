@@ -7,13 +7,13 @@ enableEmoji = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Copyright
-copyright = "&copy;2020 Jean-Loup Adde"
+copyright = "&copy;2021 Jean-Loup Adde"
 
 [params]
   author = "Jean-Loup Adde"
   description = "I am Site Reliability Engineer with a passion for developing internal tooling (Go, Python). During my free time, I play video games on Twitch, train for a triathlon or chill on my guitar."
   shareImage = "images/self-portrait-en.jpg"
-  twitterHandle = "juan__wolf"
+  twitterHandle = "juanwolf__"
 
   favicon = "favicon.ico"
 
@@ -38,7 +38,7 @@ copyright = "&copy;2020 Jean-Loup Adde"
 
       [[params.links.list1.link]]
         text = "Twitch"
-        url = "https://twitch.tv/juan__wolf"
+        url = "https://twitch.tv/juanwolf__"
 
   [[params.links]]
     [params.links.list2]
@@ -46,7 +46,7 @@ copyright = "&copy;2020 Jean-Loup Adde"
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "https://twitter.com/juan__wolf"
+        url = "https://twitter.com/juanwolf__"
 
       [[params.links.list2.link]]
         text = "GitHub"
